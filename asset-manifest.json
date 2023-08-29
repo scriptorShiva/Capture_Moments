@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Capture_Moments/static/js/main.fdd85c04.js",
+    "static/media/cameraman2.jpg": "/Capture_Moments/static/media/cameraman2.99ecb13fed807478ab8b.jpg",
+    "static/media/racer.jpg": "/Capture_Moments/static/media/racer.90c87df3c26f063f918b.jpg",
+    "static/media/rise.jpg": "/Capture_Moments/static/media/rise.4e9ce84c18635040913c.jpg",
+    "static/media/rise1.jpg": "/Capture_Moments/static/media/rise1.967c19d6eb2450e7a839.jpg",
+    "static/media/rise2.jpg": "/Capture_Moments/static/media/rise2.1dfaaa5fcec8d1ae19f8.jpg",
+    "static/media/cameraman.jpg": "/Capture_Moments/static/media/cameraman.d830f52fe5cb5283e129.jpg",
+    "static/media/racer1.jpg": "/Capture_Moments/static/media/racer1.88bfee33377927357b54.jpg",
+    "static/media/yoga1.jpg": "/Capture_Moments/static/media/yoga1.8ace9c0473e7e5c81029.jpg",
+    "static/media/racer2.jpg": "/Capture_Moments/static/media/racer2.361630cdf878da745222.jpg",
+    "static/media/yoga.jpg": "/Capture_Moments/static/media/yoga.366a532d546305e4f710.jpg",
+    "static/media/yoga2.jpg": "/Capture_Moments/static/media/yoga2.489b91c9cacca0fbdb38.jpg",
+    "index.html": "/Capture_Moments/index.html",
+    "main.fdd85c04.js.map": "/Capture_Moments/static/js/main.fdd85c04.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fdd85c04.js"
+  ]
+}
